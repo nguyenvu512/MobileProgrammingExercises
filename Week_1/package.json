@@ -1,5 +1,5 @@
 {
-  "name": "22645251_nguyendanhminhtoan_laptrinhthietbididong",
+  "name": "MobileProgrammingExercises",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/noat04/22645251_NguyenDanhMinhToan_LapTrinhThietBiDiDong.git"
+    "url": "git+https://github.com/nguyenvu512/MobileProgrammingExercises.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "type": "commonjs",
   "bugs": {
-    "url": "https://github.com/noat04/22645251_NguyenDanhMinhToan_LapTrinhThietBiDiDong/issues"
+    "url": "https://github.com/nguyenvu512/MobileProgrammingExercises/issues"
   },
-  "homepage": "https://github.com/noat04/22645251_NguyenDanhMinhToan_LapTrinhThietBiDiDong#readme"
+  "homepage": "https://github.com/nguyenvu512/MobileProgrammingExercises#readme"
 }
